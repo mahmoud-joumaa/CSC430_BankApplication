@@ -1,0 +1,5 @@
+admin admin 30.0
+user user 40.0
+adam.kanj@lau.edu adam.kanj 0.0
+mahmoud.joumaa@lau.edu mahmoud.joumaa 0.0
+new new 0.0
